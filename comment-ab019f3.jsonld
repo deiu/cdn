@@ -1,0 +1,20 @@
+{
+  "@context": [
+    "https://w3id.org/identity/v1",
+    "https://comments.com/contexts/comment.jsonld"
+  ],
+  "comment": {
+    "type": "Reply",
+    "ref": "ipfs://QmbsFk8RfvHhMnzQmLWqvYbCSdZeNhXJe7fYve2bSamtZv",
+    "author": "did:uport:1690e4b1adb3GYTBaaKAgr76uY7iSe1Uf28",
+    "body": "Cool stuff, I'm going to follow @AKASHA now."
+  },
+  "created": "2019-01-14T05:35:54Z",
+  "proof": {
+    "type": "RsaSignature2018",
+    "created": "2019-01-14T05:35:55Z",
+    "creator": "did:uport:1690e4b1adb3GYTBaaKAgr76uY7iSe1Uf28/keys/6",
+    "nonce": "de9de7ce-447f-4f8f-98cf-1690e4b1adb3",
+    "signatureValue": "BavEll0/I1..W3JT24="
+  }
+}
