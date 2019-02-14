@@ -1,15 +1,15 @@
 {
   "@context": [
     "https://w3id.org/identity/v1",
-    "https://comments.com/contexts/comment.jsonld"
+    "https://akasha.org/contexts/comments.jsonld"
   ],
-  "comment": {
-    "type": "Comment",
-    "ref": "ipfs://QmXAQJSUtvmoroV5CNBJBT7HmZk25e64hPuRcpFjyfG5tq",
+  "payload": {
+    "type": "AKASHAComment",
+    "ref": "ipfs://QmWsZJJgAA54Y9DYn1g7FtR8kgijgXeRqbfhnfggqAM36M",
+    "created": "2019-01-14T05:39:54Z",
     "author": "did:uport:1690e4b1adb3GYTBaaKAgr76uY7iSe1Uf28",
     "body": "Cool stuff, I'm going to follow @AKASHA now."
   },
-  "created": "2019-01-14T05:35:54Z",
   "proof": {
     "type": "RsaSignature2018",
     "created": "2019-01-14T05:35:55Z",
